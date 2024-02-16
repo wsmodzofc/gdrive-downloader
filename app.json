@@ -6,7 +6,7 @@
     "whatsapp bot",
     "nodejs"
   ],
-  "repository": "https://github.com/whiteshadowofficial/Jessi-md",
+  "repository": "https://github.com/whiteshadowofficial/gdrive-downloader",
     "buildpacks": [
     {
       "url": "heroku/nodejs"
